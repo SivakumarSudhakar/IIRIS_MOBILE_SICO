@@ -1,1 +1,1 @@
-# SICO_MOB_DEV
+SICO Mobile Application Source fro devolopment
